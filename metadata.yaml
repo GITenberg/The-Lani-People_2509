@@ -1,0 +1,29 @@
+_repo: The-Lani-People_2509
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bone, Jesse F. (Jesse Franklin)
+    aliases:
+    - Bone, Jesse Franklin
+    - Bone, J. F. (Jesse Franklin)
+    birthdate: 1916
+    deathdate: 2006
+    gutenberg_agent_id: '946'
+    url: http://www.gutenberg.org/2009/agents/946
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Lani People
+url: http://www.gutenberg.org/ebooks/2509
